@@ -1,3 +1,3 @@
 # hackathon-n8n
 
-Code review project
+Code review project description
